@@ -70,7 +70,7 @@ function App() {
               <span className="d-flex">
                 <b>Email:</b>
                 <p>
-                  <a href="mailto:deepakchauhan2096@gmail.com" target="_blank">
+                  <a href="mailto:deepakchauhan2096@gmail.com" target="_blank" rel="noreferrer">
                     deepakchauhan2096@gmail.com
                   </a>
                 </p>
