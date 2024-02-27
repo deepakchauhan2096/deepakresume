@@ -3,11 +3,11 @@ import "./App.css";
 import myfile from "./Deepak_Resume_updated.pdf";
 
 function App() {
-  const [wide, setWide] = useState(false);
+  // const [wide, setWide] = useState(false);
 
-  const Print = () => {
-    window.print();
-  };
+  // const Print = () => {
+  //   window.print();
+  // };
 
   // const handleDownload = () => {
   //   const filePath = myfile; // Replace with the actual path to your PDF file
