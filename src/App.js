@@ -31,6 +31,7 @@ function App() {
     <>
   
       <iframe
+        title="myresume"
         src={`${myfile}#toolbar=0&navpanes=0&scrollbar=0`}
         // frameBorder="0"
         // scrolling="auto"
